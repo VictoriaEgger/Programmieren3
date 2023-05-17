@@ -1,0 +1,2 @@
+Product{ProductName='Eis', Price=100.0, ProductCategory='Essen'}
+Product{ProductName='Salat', Price=200.0, ProductCategory='Essen'}
