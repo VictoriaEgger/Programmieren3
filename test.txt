@@ -1,1 +1,4 @@
-gfgfgfgfgf
+Textdateien liest man mit Hilfe der Klasse java.io.FileReader.
+Zur Erinnerung: Reader und Writer sind zum Lesen und Schreiben von Zeichen da,
+während InputStream und OutputStream
+zum Lesen und Schreiben binärer Daten da sind.
